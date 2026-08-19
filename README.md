@@ -1,0 +1,2 @@
+# projectsolo
+testando aprendizado 
